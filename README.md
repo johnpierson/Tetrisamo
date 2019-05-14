@@ -19,3 +19,6 @@ After compiling the code and setting up the extension. Tetrisamo will appear in 
 
 ## License
 This project is licensed under the [MIT License](https://github.com/johnpierson/DynaThanos/blob/master/LICENSE). By using this project you agree to the terms and conditions of the license. A simplified summary of this license is available at [TLDRLegal](https://tldrlegal.com/license/mit-license).
+
+## Is it any good?
+yes
