@@ -1,0 +1,4 @@
+﻿<ViewExtensionDefinition>
+  <AssemblyPath>..\bin\Tetrisamo.dll</AssemblyPath>
+  <TypeName>Tetrisamo.TetrisamoViewExtension</TypeName>
+</ViewExtensionDefinition>
