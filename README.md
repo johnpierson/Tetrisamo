@@ -8,9 +8,6 @@
 </h1>
 <h4 align="center">A custom view extension for <a href="http://dynamobim.org/" target="_blank">Dynamo 2.0</a>.</h4>
 
-## Is it any good?
-yes
-
 ## Repository Information
 This repository houses the code for the Tetrisamo View Extension.
 
@@ -22,3 +19,6 @@ After compiling the code and setting up the extension. Tetrisamo will appear in 
 
 ## License
 This project is licensed under the [MIT License](https://github.com/johnpierson/DynaThanos/blob/master/LICENSE). By using this project you agree to the terms and conditions of the license. A simplified summary of this license is available at [TLDRLegal](https://tldrlegal.com/license/mit-license).
+
+## Is it any good?
+[yes](https://news.ycombinator.com/item?id=3067434)
