@@ -15,7 +15,7 @@ This repository houses the code for the Tetrisamo View Extension.
 This view extension was made as a proof of concept of node placement utilities in Dynamo. It is not meant to be used in production or anything like that. Definitely observe the license and "use with care". 
 
 ## Usage
-After compiling the code and setting up the extension. Tetrisamo will appear in the view menu. WWith the window open you will play each note from the tetris song upon node placement.
+After compiling the code and setting up the extension. Tetrisamo will appear in the view menu. With the window open you will play each note from the tetris song upon node placement.
 
 ## License
 This project is licensed under the [MIT License](https://github.com/johnpierson/DynaThanos/blob/master/LICENSE). By using this project you agree to the terms and conditions of the license. A simplified summary of this license is available at [TLDRLegal](https://tldrlegal.com/license/mit-license).
